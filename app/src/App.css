@@ -338,6 +338,11 @@ a:hover {
   margin-top: 0px !important;
   font-weight: 900 !important;
 }
+@media (min-width: 768px) {
+  .line-chart {
+    width: 50%;
+  }
+}
 .home-heading-container {
   display: flex;
   justify-content: space-between;

@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/-Bing News API-green?style=for-the-badge">
 </a>
 
-<details>
-This app was created for those of us who are super interested in cryptocurrency! Users can browse through the many cryptocurrencies and see detailed chart data. There is also a section where users can see recent crypto news articles!
-</details>
+## Features
+
+<or>
+<li>Home page listing the top 10 cryptocurrencies and 3 articles on the latest crypto news</li>
+<li>Data is being managed with redux tool kit's createApi, allowing us to seamlessly pull data from Coin Ranking API and BIng News API </li>
+<li>Users can browse the top 100 cryptocurrencies and view each coin in a detailed page.</li>
+<li>Detailed page includes: Line chart from chart.js, a description on the cryptocurrency, and relevant links</li>
+<li>Users can browse a news page where it shows the latest crypto news. Clicking on the news will redirect to the actual source article</li>
+<li>There is an exchanges page where users can browse the different websites to buy and sell crypto</li>
+</or>
